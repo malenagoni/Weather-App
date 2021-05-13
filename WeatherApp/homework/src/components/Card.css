@@ -1,0 +1,34 @@
+
+
+.card {
+  margin: 20px;
+  width: 18rem;
+  height: 180px;
+  background-color: rgba(0, 0, 0, 0.137);
+  /* color: white; */
+
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: white;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+  color: white;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #00000000;
+  border-color: #bd213100;
+}

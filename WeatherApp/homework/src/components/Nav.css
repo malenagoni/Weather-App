@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#logoHenry {
+  margin-right: 20px;
+}
+
+.nav {
+  background-color: transparent;
+}
+
+.bg-dark {
+  background: rgb(23,0,36) !important;
+  background: linear-gradient(177deg, rgba(23,0,36,1) 0%, rgba(56,9,121,0.7626400902157738) 35%, rgba(170,0,255,0.17440479609812676) 100%) !important;
+  color: white !important;
+  font-family: 'Montserrat', sans-serif !important;
+}
