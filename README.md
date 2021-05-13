@@ -1,6 +1,6 @@
 # Weather-App
 
-The Weather-App was one of my first projects! I hope you like it ☀️
+The Weather-App was one of my first projects that I did at Henry bootcamp ! I hope you like it ☀️
 
 I used HTML, CSS, Bootstrap, JavaScript, ReactJS and consumed an API.
 
